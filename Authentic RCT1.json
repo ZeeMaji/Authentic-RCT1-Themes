@@ -1,0 +1,297 @@
+{
+    "entries": {
+        "WC_ABOUT": {
+            "colours": [
+                24,
+                24
+            ]
+        },
+        "WC_BOTTOM_TOOLBAR": {
+            "colours": [
+                1,
+                129,
+                0,
+                18
+            ]
+        },
+        "WC_CHANGELOG": {
+            "colours": [
+                24,
+                24
+            ]
+        },
+        "WC_CHANGE_KEYBOARD_SHORTCUT": {
+            "colours": [
+                24,
+                24,
+                24
+            ]
+        },
+        "WC_CHAT": {
+            "colours": [
+                27
+            ]
+        },
+        "WC_CHEATS": {
+            "colours": [
+                1,
+                19
+            ]
+        },
+        "WC_CONSOLE": {
+            "colours": [
+                27,
+                2
+            ]
+        },
+        "WC_CONSTRUCT_RIDE": {
+            "colours": [
+                26,
+                1,
+                1
+            ]
+        },
+        "WC_DEMOLISH_RIDE_PROMPT": {
+            "colours": [
+                154
+            ]
+        },
+        "WC_EDITOR_SCENARIO_BOTTOM_TOOLBAR": {
+            "colours": [
+                19,
+                19,
+                1
+            ]
+        },
+        "WC_EDITOR_TRACK_BOTTOM_TOOLBAR": {
+            "colours": [
+                19,
+                19,
+                1
+            ]
+        },
+        "WC_FINANCES": {
+            "colours": [
+                4,
+                1,
+                1
+            ]
+        },
+        "WC_GUEST_LIST": {
+            "colours": [
+                22,
+                26,
+                26
+            ]
+        },
+        "WC_INSTALL_TRACK": {
+            "colours": [
+                24,
+                24,
+                24
+            ]
+        },
+        "WC_KEYBOARD_SHORTCUT_LIST": {
+            "colours": [
+                24,
+                24,
+                24
+            ]
+        },
+        "WC_LAND_RIGHTS": {
+            "colours": [
+                19,
+                19,
+                19
+            ]
+        },
+        "WC_LOADSAVE": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_MAP": {
+            "colours": [
+                1,
+                1
+            ]
+        },
+        "WC_MAPGEN": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_NETWORK_STATUS": {
+            "colours": [
+                7
+            ]
+        },
+        "WC_NEW_CAMPAIGN": {
+            "colours": [
+                4,
+                4,
+                1
+            ]
+        },
+        "WC_OPTIONS": {
+            "colours": [
+                24,
+                24,
+                24
+            ]
+        },
+        "WC_PARK_INFORMATION": {
+            "colours": [
+                1,
+                19,
+                19
+            ]
+        },
+        "WC_PEEP": {
+            "colours": [
+                22,
+                26,
+                26
+            ]
+        },
+        "WC_PLAYER": {
+            "colours": [
+                7,
+                7,
+                7
+            ]
+        },
+        "WC_RECENT_NEWS": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_RIDE": {
+            "colours": [
+                26,
+                1,
+                11
+            ]
+        },
+        "WC_RIDE_LIST": {
+            "colours": [
+                26,
+                1,
+                1
+            ]
+        },
+        "WC_SCENARIO_SELECT": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_SERVER_LIST": {
+            "colours": [
+                1,
+                1
+            ]
+        },
+        "WC_STAFF": {
+            "colours": [
+                12,
+                9,
+                9
+            ]
+        },
+        "WC_STAFF_LIST": {
+            "colours": [
+                12,
+                9,
+                9
+            ]
+        },
+        "WC_THEMES": {
+            "colours": [
+                24,
+                24,
+                24
+            ]
+        },
+        "WC_TILE_INSPECTOR": {
+            "colours": [
+                19,
+                19
+            ]
+        },
+        "WC_TITLE_EDITOR": {
+            "colours": [
+                24,
+                24,
+                24
+            ]
+        },
+        "WC_TITLE_EXIT": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_TITLE_MENU": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_TITLE_OPTIONS": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_TOP_TOOLBAR": {
+            "colours": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_TRACK_DELETE_PROMPT": {
+            "colours": [
+                154,
+                147,
+                154
+            ]
+        },
+        "WC_TRACK_DESIGN_LIST": {
+            "colours": [
+                24,
+                24,
+                24
+            ]
+        },
+        "WC_VIEWPORT": {
+            "colours": [
+                1,
+                1,
+                1
+            ]
+        },
+        "WC_VIEW_CLIPPING": {
+            "colours": [
+                12
+            ]
+        }
+    },
+    "name": "Authentic RCT1",
+    "useAltScenarioSelectFont": true,
+    "useFullBottomToolbar": true,
+    "useLightsPark": true,
+    "useLightsRide": true
+}
