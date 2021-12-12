@@ -24,6 +24,9 @@ Opaque title menu buttons
 Fully gray scenario selection window
 Staff window colors are dark water rather than light purple
 
+Things to note:
+Due to the staff window in the rct1 theme using the dark water color, It's color will change depending on what water object is currently selected in the scenario (ex: orange water will make it orange)
+
 Things that can't be replicated with these themes:
 The dark red space between the top toolbar buttons in rct1
 In the rct1 base game the "dark yellow" color was a different, brighter shade of yellow so it's not possible to replicate their colors within an openrct2 theme
