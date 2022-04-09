@@ -151,6 +151,13 @@
                 19
             ]
         },
+        "WC_PATROL_AREA": {
+            "colours": [
+                9,
+                9,
+                9
+            ]
+        },
         "WC_PEEP": {
             "colours": [
                 22,
